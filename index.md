@@ -2,5 +2,6 @@
 title: "Kyle Liu"
 ---
 
-Kyle Liu
 Grade 10
+Dope as heck
+Good Looking

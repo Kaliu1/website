@@ -7,6 +7,7 @@ description: > # this means to ignore newlines until "baseurl:"
 # social links
 github_username:  Kaliu1 # DO NOT include the @ character, or else the build will fail!
 instagram_username: thekyleliu
+discord_username: Vxrtual#1878
 
 show_excerpts: true # set to false to remove excerpts on the homepage
 

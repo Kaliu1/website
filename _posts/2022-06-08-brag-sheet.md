@@ -3,8 +3,8 @@ title: "Brag Sheet"
 date: 2022-06-08
 ---
 
-Very good looking
-1390 PSAT
-Youth Council Exec. Board President
-Gold IV on League of Legends
-Got a higher grade than Kenneth Chan on Chemistry Gas Laws Test
+1. Very good looking
+2. 1390 PSAT
+3. Youth Council Exec. Board President
+4. Gold IV on League of Legends
+5. Got a higher grade than Kenneth Chan on Chemistry Gas Laws Test
